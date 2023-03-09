@@ -8,7 +8,7 @@
 - Intel i3 8350K @ Stock
 - 2x 8Gb DD4 2400Mhz (HYPERX FURY)
 - RX 580 8Gb (Saphire Nitro)
-- Wifi/BT PCIE Adaptor witch BMC94360cs2
+- Wifi/BT PCIE Adaptor with BMC94360cs2
 
 ## What works
 
