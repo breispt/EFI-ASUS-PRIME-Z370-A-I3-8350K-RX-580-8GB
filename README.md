@@ -3,12 +3,12 @@
 ![Mac Specs](/images/mac-specs.png "Hackintosh")
 
 **Current macOS Version**: Big Sur 11.7.4
-**Current Opencore Version**: 0.6.8
+**Current Opencore Version**: 0.9.0
 
 ## Complete hardware spcs
 - Asus Prime Z370-A @ BIOS 3004
 - Intel i3 8350K @ Stock
-- 4 x 8Gb DD4 2400Mhz (HYPERX FURY)
+- 4x 8Gb DD4 2400Mhz (HYPERX FURY)
 - RX 580 8Gb (Saphire Nitro)
 - Wifi/BT PCIE Adaptor with BMC94360cs2
 
