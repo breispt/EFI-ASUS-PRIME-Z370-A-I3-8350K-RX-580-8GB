@@ -12,13 +12,18 @@
 - RX 580 8Gb (Saphire Nitro)
 - Wifi/BT PCIE Adaptor with BMC94360cs2
 
-## What works
+<!-- ## SMBIOS -->
 
-## What doesn't work
+<!-- ## What works -->
 
-## Kexts used
+<!-- ## What doesn't work -->
 
-## Geekbench Results
+<!-- ## Kexts used -->
+
+<!-- ## Geekbench Results -->
+
+## Links
+- [Device Hunt] (https://devicehunt.com/)
 
 ## Thanks/Credits
 - [Opencore Team](https://dortania.github.io/getting-started/)
